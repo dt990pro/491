@@ -1,0 +1,6 @@
+﻿  sample.cpp
+C:\Users\mojia\source\repos\ForwardTemplate\sample.cpp(987,22): warning C4305:  '*=': truncation from 'double' to 'float'
+C:\Users\mojia\source\repos\ForwardTemplate\sample.cpp(988,22): warning C4305:  '*=': truncation from 'double' to 'float'
+C:\Users\mojia\source\repos\ForwardTemplate\sample.cpp(989,22): warning C4305:  '*=': truncation from 'double' to 'float'
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\mojia\source\repos\ForwardTemplate\.\Debug\Sample.exe

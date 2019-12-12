@@ -1,0 +1,15 @@
+﻿  sample.cpp
+C:\Users\mojia\source\repos\Keytime2019Wrapper\sample.cpp(568,26): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\mojia\source\repos\Keytime2019Wrapper\sample.cpp(570,26): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\mojia\source\repos\Keytime2019Wrapper\sample.cpp(572,26): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\mojia\source\repos\Keytime2019Wrapper\sample.cpp(573,26): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\mojia\source\repos\Keytime2019Wrapper\sample.cpp(574,27): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\mojia\source\repos\Keytime2019Wrapper\sample.cpp(575,24): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\mojia\source\repos\Keytime2019Wrapper\sample.cpp(576,24): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\mojia\source\repos\Keytime2019Wrapper\sample.cpp(577,24): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\mojia\source\repos\Keytime2019Wrapper\sample.cpp(578,24): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\mojia\source\repos\Keytime2019Wrapper\sample.cpp(579,24): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\mojia\source\repos\Keytime2019Wrapper\sample.cpp(580,24): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\mojia\source\repos\Keytime2019Wrapper\sample.cpp(581,25): warning C4305:  'argument': truncation from 'double' to 'float'
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\mojia\source\repos\Keytime2019Wrapper\.\Debug\Sample.exe

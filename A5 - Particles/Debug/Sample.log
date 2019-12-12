@@ -1,0 +1,36 @@
+﻿  sample.cpp
+C:\Users\mojia\source\repos\Particles\glui.h(758,47): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\mojia\source\repos\Particles\glui.h(758,31): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\mojia\source\repos\Particles\sample.cpp(236,22): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mojia\source\repos\Particles\sample.cpp(231,8): warning C4101:  'dt': unreferenced local variable
+C:\Users\mojia\source\repos\Particles\sample.cpp(427,14): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\mojia\source\repos\Particles\sample.cpp(366,6): warning C4101:  'ti': unreferenced local variable
+C:\Users\mojia\source\repos\Particles\sample.cpp(365,6): warning C4101:  'j': unreferenced local variable
+C:\Users\mojia\source\repos\Particles\sample.cpp(511,11): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mojia\source\repos\Particles\sample.cpp(535,19): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\mojia\source\repos\Particles\sample.cpp(43,27): warning C4244:  'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\mojia\source\repos\Particles\sample.cpp(728,13): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\mojia\source\repos\Particles\sample.cpp(729,13): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\mojia\source\repos\Particles\sample.cpp(730,13): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\mojia\source\repos\Particles\sample.cpp(736,22): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\mojia\source\repos\Particles\sample.cpp(738,22): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\mojia\source\repos\Particles\sample.cpp(746,13): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\mojia\source\repos\Particles\sample.cpp(752,22): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\mojia\source\repos\Particles\sample.cpp(753,13): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\mojia\source\repos\Particles\sample.cpp(754,22): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\mojia\source\repos\Particles\sample.cpp(760,22): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\mojia\source\repos\Particles\sample.cpp(761,13): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\mojia\source\repos\Particles\sample.cpp(762,13): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\mojia\source\repos\Particles\sample.cpp(43,27): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\mojia\source\repos\Particles\sample.cpp(1163,17): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mojia\source\repos\Particles\sample.cpp(1164,18): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mojia\source\repos\Particles\sample.cpp(1236,13): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mojia\source\repos\Particles\sample.cpp(1264,11): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mojia\source\repos\Particles\sample.cpp(1266,8): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mojia\source\repos\Particles\sample.cpp(1267,8): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mojia\source\repos\Particles\sample.cpp(1268,8): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mojia\source\repos\Particles\sample.cpp(1334,14): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\mojia\source\repos\Particles\sample.cpp(1339,39): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\mojia\source\repos\Particles\sample.cpp(1339,22): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\mojia\source\repos\Particles\.\Debug\Sample.exe

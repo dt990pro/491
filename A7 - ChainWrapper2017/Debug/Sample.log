@@ -1,0 +1,19 @@
+﻿  a7.cpp
+C:\Users\mojia\source\repos\ChainWrapper2017\glui.h(758,47): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\mojia\source\repos\ChainWrapper2017\glui.h(758,31): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\mojia\source\repos\ChainWrapper2017\a7.cpp(246,16): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\mojia\source\repos\ChainWrapper2017\a7.cpp(247,16): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\mojia\source\repos\ChainWrapper2017\a7.cpp(250,62): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mojia\source\repos\ChainWrapper2017\a7.cpp(251,62): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mojia\source\repos\ChainWrapper2017\a7.cpp(267,13): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\mojia\source\repos\ChainWrapper2017\a7.cpp(318,14): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\mojia\source\repos\ChainWrapper2017\a7.cpp(322,41): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\mojia\source\repos\ChainWrapper2017\a7.cpp(322,19): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\mojia\source\repos\ChainWrapper2017\a7.cpp(355,17): warning C4244:  'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\mojia\source\repos\ChainWrapper2017\a7.cpp(472,11): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mojia\source\repos\ChainWrapper2017\a7.cpp(488,19): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\mojia\source\repos\ChainWrapper2017\a7.cpp(532,11): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\mojia\source\repos\ChainWrapper2017\a7.cpp(983,13): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\mojia\source\repos\ChainWrapper2017\a7.cpp(984,13): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+a7.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\mojia\source\repos\ChainWrapper2017\.\Debug\Sample.exe
